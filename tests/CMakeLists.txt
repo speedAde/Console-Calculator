@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.18.2)
 set(This Tests)
 
 set(Sources
-    ExampleTests.cpp
+    InputParserTest.cpp
 )
 
 add_executable(${This} ${Sources})
