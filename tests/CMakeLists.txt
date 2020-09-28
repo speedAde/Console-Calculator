@@ -13,6 +13,6 @@ target_link_libraries(${This} PUBLIC
 )
 
 add_test(
-    NAME ${This}
+    NAME InputParserTest
     COMMAND ${This}
 )

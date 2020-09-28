@@ -1,5 +1,6 @@
 #include "InputParser.hpp"
-#include <iostream>
+#include <string>
+#include <algorithm>
 
 InputParser::InputParser(int argc, char* argv[])
 {

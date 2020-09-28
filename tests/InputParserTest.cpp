@@ -1,7 +1,6 @@
 #include <gtest/gtest.h>
 #include "../src/InputParser.hpp"
-#include <iostream>
-#include <string>
+
 TEST(InputParserTest, Constructor)
 {
     int argc = 3;
