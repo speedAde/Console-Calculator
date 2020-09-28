@@ -12,6 +12,7 @@ set(Headers
 )
 
 set(Sources
+    src/InputParser.cpp
     src/main.cpp
 )
 
